@@ -511,6 +511,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ecf5413758e3c6442ab65e8277e3c1a6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NewMonoBehaviourScript
+  jumpForce: 10
+  gravityModifier: 1
+  isOnGround: 1
 --- !u!65 &1726151677
 BoxCollider:
   m_ObjectHideFlags: 0
